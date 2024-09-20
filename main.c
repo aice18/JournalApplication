@@ -90,9 +90,9 @@ int main()
 			}
 		    
 		}
-		    else
-			{
-				printf("Invalid choice.");
-			}
+		else
+		{
+			printf("Invalid choice.");
 		}
+	}
 }
